@@ -1,0 +1,8 @@
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\bin\Debug\oopsoild.exe.config
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\bin\Debug\oopsoild.exe
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\bin\Debug\oopsoild.pdb
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\obj\Debug\oopsoild.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\obj\Debug\oopsoild.csproj.SuggestedBindingRedirects.cache
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\obj\Debug\oopsoild.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\obj\Debug\oopsoild.exe
+C:\Users\THINKPAD\Desktop\first\oopsoild\oopsoild\obj\Debug\oopsoild.pdb
